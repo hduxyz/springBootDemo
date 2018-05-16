@@ -87,8 +87,7 @@ public class HelloWord {
 1、命令行中启动
 
 ```shell
-mvn  clean
-mvn  install
+mvn  clean compile
 mvn  spring-boot:run
 ```
 
