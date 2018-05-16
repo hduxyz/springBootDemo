@@ -8,22 +8,17 @@
     <artifactId>helloWord</artifactId>
     <version>1.0.0.1</version>
 
-    <properties>
-        <spring.boot.starter.version>1.4.2.RELEASE</spring.boot.starter.version>
-    </properties>
-
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <!-- 不能在这里使用${spring.boot.starter.version}，原因不明，可能是xml加载顺序的原因？ -->
-        <version>1.4.2.RELEASE</version>
+        <version>1.4.3.RELEASE</version>
     </parent>
 
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
-            <version>${spring.boot.starter.version}</version>
+            <version>1.4.3.RELEASE</version>
         </dependency>
     </dependencies>
 
