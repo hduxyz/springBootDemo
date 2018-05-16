@@ -1,16 +1,12 @@
----
-typora-root-url: src\main\resources\img
----
-
 ##1、使用IDEA创建maven工程
 
 说明：社区版没有Spring插件，无法新建Spring工程,需要创建Maven工程，然后自己修改配置文件（详见下文）；如果是旗舰版，直接新建Spring工程即可,参考<https://blog.csdn.net/lom9357bye/article/details/69677120>
 
-![1](D:\masterSpring\helloWord\src\main\resources\img\1.png)
+![1](https://github.com/hduxyz/springBootDemo/blob/master/src/main/resources/img/1.png)
 
-![2](D:\masterSpring\helloWord\src\main\resources\img\2.png)
+![2](https://github.com/hduxyz/springBootDemo/blob/master/src/main/resources/img/2.png)
 
-![3](D:\masterSpring\helloWord\src\main\resources\img\3.png)
+![3](https://github.com/hduxyz/springBootDemo/blob/master/src/main/resources/img/3.png)
 
 
 
